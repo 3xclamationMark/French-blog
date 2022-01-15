@@ -1,1 +1,30 @@
+body{
+	color: white;
+	background-image: url("https://image.freepik.com/free-vector/gradient-dark-dynamic-lines-background_23-2148995950.jpg");
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	overflow-x: hidden;
+}
 
+
+
+.header{
+	margin-top: -10px;
+	margin-left: -10px;
+    background-color: #113355;
+    font-family: 'Proza Libre', sans-serif;
+    padding: 15px;
+    text-align: center;
+	width: 100%;
+}
+
+.post{
+	background-color: rgb(255, 255, 255, 0.8);
+	padding: 10px;
+	margin: 60px;
+	border-radius: 5px;
+	color: black;
+}
